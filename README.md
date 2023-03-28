@@ -31,7 +31,7 @@ https://github.com/bunderLikeLion/sellon_backend
 
 ## 🕸 Infrastructure
 
-<img src="./public/readme/infra.png" width="70%" height="60%">
+<img width="955" alt="image" src="https://raw.githubusercontent.com/bunderLikeLion/sellon_frontend/main/public/readme/infra.png">
 
 
 ## 🎠 기능
